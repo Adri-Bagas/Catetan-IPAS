@@ -1,7 +1,6 @@
 <!-- Title : Cp 1 Mahluk Hidup dan Lingkungan nya -->
 
 # CP 1 - Mahluk Hidup dan Lingkungan nya
----
 
 ## 1. Ciri - Ciri Mahluk Hidup
 
