@@ -42,26 +42,7 @@ Ekosistem adalah Suatu sistem lingkungan yang terbentuk dari hubungan timbal bal
   - Air
   - Angin
 
-### C. Komponen Penyusun Biotik
-
-Produsen
-: mampu menghasilkan/mensintesa makanan 
-(bahan organik) dari bahan an organik. 
-contoh: tumbuhan hijau.
-
-Konsumen
-: kelompok organisme ini tidak mampu 
-	mensintesa makanan sendiri, hanya 
-	mengkonsumsi makanan yang sudah jadi.
-	contoh : hewan dan manusia.
-
-Pengurai
-: Kelompok organisme heterotrof
-  yang mampu mengurai organisme lain yang telah mati (bahan organik) menjadi bahan - bahan lain yang lebih sederhana (anorganik) untuk dikembalikan ke alam. 
-	contoh: bakteri dan jamur.
-
-
-### D. Simbiosis 
+### C. Simbiosis 
 
 Simbiosis
 : adalah semua jenis interaksi biologis jangka panjang dan dekat antara dua organisme biologis yang berbeda
@@ -70,7 +51,7 @@ Simbiosis
 
 <img src="../img/660px-Symbiotic_relationships_diagram.svg.png" width=400>
 
-### E. Komponen Mahluk Hidup
+### D. Komponen Mahluk Hidup
 
 Individu :wink:
 : Entitas Tunggal 
